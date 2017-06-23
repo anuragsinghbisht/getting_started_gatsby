@@ -1,0 +1,30 @@
+{
+  "name": "getting_started_gatsby",
+  "version": "1.0.0",
+  "description": "Getting started with Gatsby",
+  "main": "index.js",
+  "scripts": {
+    "build": "gatsby build",
+    "deploy": "surge public/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuragsinghbisht/getting_started_gatsby.git"
+  },
+  "keywords": [
+    "Gatsby",
+    "Static",
+    "Site",
+    "React"
+  ],
+  "author": "Anurag Singh Bisht <anuragsinghbisht@outlook.com> (https://github.com/anuragsinghbisht)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anuragsinghbisht/getting_started_gatsby/issues"
+  },
+  "homepage": "https://github.com/anuragsinghbisht/getting_started_gatsby#readme",
+  "dependencies": {
+    "gatsby": "^1.0.0-beta.3",
+    "gatsby-link": "^1.0.0-beta.2"
+  }
+}
